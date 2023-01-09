@@ -1,0 +1,9 @@
+#header-nav {
+    background-color: grey;
+    border-radius: 0px;
+    border: 2px;
+}
+span {
+    text-align: left;
+    padding: 0;
+}
