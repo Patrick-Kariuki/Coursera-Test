@@ -1,9 +1,15 @@
-#header-nav {
-    background-color: grey;
-    border-radius: 0px;
-    border: 2px;
+* {
+    box-sizing: border-box;
+    font-family: 'Oxygen', sans-serif;
 }
-span {
+
+.navbar {
+    background-color: gray;
+    border-radius: 0px;
+    border: 2px solid black;
+}
+.navbar-brand {
     text-align: left;
-    padding: 0;
+    color: blue;
+    font-weight: bold;
 }
